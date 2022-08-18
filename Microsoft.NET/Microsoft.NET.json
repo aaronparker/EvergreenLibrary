@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "6.0.7",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/dc0e0e83-0115-4518-8b6a-590ed594f38a/65b63e41f6a80decb37fa3c5af79a53d/windowsdesktop-runtime-6.0.7-win-x64.exe",
+    "Type": "exe",
+    "Path": "/Users/aaron/Temp/Evergreen/Microsoft.NET/LTS/6.0.7/x64/windowsdesktop-runtime-6.0.7-win-x64.exe",
+    "Installer": "windowsdesktop",
+    "Channel": "LTS",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "6.0.8",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/b4a17a47-2fe8-498d-b817-30ad2e23f413/00020402af25ba40990c6cc3db5cb270/windowsdesktop-runtime-6.0.8-win-x64.exe",
+    "Type": "exe",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/Microsoft.NET/LTS/6.0.8/x64/windowsdesktop-runtime-6.0.8-win-x64.exe",
+    "Installer": "windowsdesktop",
+    "Channel": "LTS",
+    "Architecture": "x64"
+  }
+]

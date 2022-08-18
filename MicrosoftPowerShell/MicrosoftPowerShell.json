@@ -1,0 +1,24 @@
+[
+  {
+    "Version": "7.2.5",
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.5/PowerShell-7.2.5-win-x64.msi",
+    "Type": "msi",
+    "Size": 106917888,
+    "Release": "Stable",
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/Evergreen/MicrosoftPowerShell/Stable/7.2.5/x64/PowerShell-7.2.5-win-x64.msi",
+    "Date": "21/6/2022",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "7.2.6",
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.6/PowerShell-7.2.6-win-x64.msi",
+    "Type": "msi",
+    "Size": 106954752,
+    "Release": "Stable",
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftPowerShell/Stable/7.2.6/x64/PowerShell-7.2.6-win-x64.msi",
+    "Date": "11/8/2022",
+    "Architecture": "x64"
+  }
+]

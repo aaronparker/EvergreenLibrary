@@ -1,0 +1,23 @@
+[
+  {
+    "Version": "103.0.1264.77",
+    "URI": "https://msedgedriver.azureedge.net/103.0.1264.77/edgedriver_win64.zip",
+    "Path": "/Users/aaron/Temp/Evergreen/MicrosoftEdgeDriver/Stable/103.0.1264.77/x64/edgedriver_win64.zip",
+    "Channel": "Stable",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "104.0.1293.47",
+    "URI": "https://msedgedriver.azureedge.net/104.0.1293.47/edgedriver_win64.zip",
+    "Path": "/Users/aaron/Temp/Evergreen/MicrosoftEdgeDriver/Stable/104.0.1293.47/x64/edgedriver_win64.zip",
+    "Channel": "Stable",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "104.0.1293.54",
+    "URI": "https://msedgedriver.azureedge.net/104.0.1293.54/edgedriver_win64.zip",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdgeDriver/Stable/104.0.1293.54/x64/edgedriver_win64.zip",
+    "Channel": "Stable",
+    "Architecture": "x64"
+  }
+]

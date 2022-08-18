@@ -1,0 +1,45 @@
+{
+    "Name": "EvergreenLibrary",
+    "Applications": [
+        {
+            "Name": "Microsoft.NET",
+            "EvergreenApp": "Microsoft.NET",
+            "Filter": "$_.Architecture -eq \"x64\" -and $_.Installer -eq \"windowsdesktop\" -and $_.Channel -eq \"LTS\""
+        },
+        {
+            "Name": "MicrosoftOneDrive",
+            "EvergreenApp": "MicrosoftOneDrive",
+            "Filter": "$_.Architecture -eq \"AMD64\" -and $_.Ring -eq \"Production\""
+        },
+        {
+            "Name": "MicrosoftEdge",
+            "EvergreenApp": "MicrosoftEdge",
+            "Filter": "$_.Platform -eq \"Windows\" -and $_.Channel -eq \"Stable\" -and $_.Release -eq \"Enterprise\" -and $_.Architecture -eq \"x64\""
+        },
+        {
+            "Name": "MicrosoftEdgeDriver",
+            "EvergreenApp": "MicrosoftEdgeDriver",
+            "Filter": "$_.Channel -eq \"Stable\" -and $_.Architecture -eq \"x64\""
+        },
+        {
+            "Name": "MicrosoftVisualStudioCode",
+            "EvergreenApp": "MicrosoftVisualStudioCode",
+            "Filter": "$_.Platform -eq \"win32-x64\" -and $_.Channel -eq \"Stable\" -and $_.Architecture -eq \"x64\""
+        },
+        {
+            "Name": "MicrosoftTeams",
+            "EvergreenApp": "MicrosoftTeams",
+            "Filter": "$_.Ring -eq \"General\" -and $_.Architecture -eq \"x64\" -and $_.Type -eq \"msi\""
+        },
+        {
+            "Name": "MicrosoftPowerToys",
+            "EvergreenApp": "MicrosoftPowerToys",
+            "Filter": "$_.Architecture -eq \"x64\""
+        },
+        {
+            "Name": "MicrosoftPowerShell",
+            "EvergreenApp": "MicrosoftPowerShell",
+            "Filter": "$_.Architecture -eq \"x64\" -and $_.Release -eq \"Stable\""
+        }
+    ]
+}
