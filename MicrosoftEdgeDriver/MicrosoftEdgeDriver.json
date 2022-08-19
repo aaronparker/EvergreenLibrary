@@ -19,5 +19,12 @@
     "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdgeDriver/Stable/104.0.1293.54/x64/edgedriver_win64.zip",
     "Channel": "Stable",
     "Architecture": "x64"
+  },
+  {
+    "Version": "104.0.1293.63",
+    "URI": "https://msedgedriver.azureedge.net/104.0.1293.63/edgedriver_win64.zip",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdgeDriver/Stable/104.0.1293.63/x64/edgedriver_win64.zip",
+    "Channel": "Stable",
+    "Architecture": "x64"
   }
 ]

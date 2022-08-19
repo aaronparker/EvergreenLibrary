@@ -36,6 +36,15 @@
     "Architecture": "AMD64"
   },
   {
+    "Version": "22.156.0724.0002",
+    "URI": "https://oneclient.sfx.ms/Win/Prod/22.156.0724.0002/amd64/OneDriveSetup.exe",
+    "Type": "exe",
+    "Sha256": "UWQ5du1hDA3Rbqo1s7Ie9XKlnwxaRANXyc2GQRnCeYY=",
+    "Ring": "Production",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftOneDrive/Production/22.156.0724.0002/AMD64/OneDriveSetup.exe",
+    "Architecture": "AMD64"
+  },
+  {
     "Version": "22.161.0731.0001",
     "URI": "https://oneclient.sfx.ms/Win/Prod/22.161.0731.0001/amd64/OneDriveSetup.exe",
     "Type": "exe",
