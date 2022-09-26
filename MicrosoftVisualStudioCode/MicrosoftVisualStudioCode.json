@@ -25,5 +25,23 @@
     "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftVisualStudioCode/Stable/1.70.2/x64/VSCodeSetup-x64-1.70.2.exe",
     "Channel": "Stable",
     "Architecture": "x64"
+  },
+  {
+    "Version": "1.71.0",
+    "URI": "https://az764295.vo.msecnd.net/stable/784b0177c56c607789f9638da7b6bf3230d47a8c/VSCodeSetup-x64-1.71.0.exe",
+    "Sha256": "fa573edf879ba238ee8d1c007f6eeef2e2f7270c67a839699624082c88e33d7f",
+    "Platform": "win32-x64",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftVisualStudioCode/Stable/1.71.0/x64/VSCodeSetup-x64-1.71.0.exe",
+    "Channel": "Stable",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "1.71.2",
+    "URI": "https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeSetup-x64-1.71.2.exe",
+    "Sha256": "650219067b39d73c4b96e5cd6353105372f61dfa1a81d8ac05c571a064b3a630",
+    "Platform": "win32-x64",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftVisualStudioCode/Stable/1.71.2/x64/VSCodeSetup-x64-1.71.2.exe",
+    "Channel": "Stable",
+    "Architecture": "x64"
   }
 ]

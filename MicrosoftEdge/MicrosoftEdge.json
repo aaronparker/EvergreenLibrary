@@ -48,5 +48,25 @@
     "Hash": "AD3E91DDC32E3E650C3C06B459EA2C20BC8EE352F92C6A53C2A27129427B1DEA",
     "Channel": "Stable",
     "Architecture": "x64"
+  },
+  {
+    "Version": "105.0.1343.27",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cdb292a-ea8a-4aed-b2c5-73e2a74ad28f/MicrosoftEdgeEnterpriseX64.msi",
+    "Release": "Enterprise",
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/105.0.1343.27/x64/MicrosoftEdgeEnterpriseX64.msi",
+    "Hash": "1972C2E7BC8BD2A7C815EABD6C77936CAFF09DD9F214B2100DE5C948504E54B8",
+    "Channel": "Stable",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "105.0.1343.50",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/43dad407-9104-48f5-89ac-7a46dc52ab63/MicrosoftEdgeEnterpriseX64.msi",
+    "Release": "Enterprise",
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/105.0.1343.50/x64/MicrosoftEdgeEnterpriseX64.msi",
+    "Hash": "ECB7C143F42DA64E91AF536C4A9BCCB6B4F7E063ED5350A81B804FF6C108A035",
+    "Channel": "Stable",
+    "Architecture": "x64"
   }
 ]
