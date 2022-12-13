@@ -1,72 +1,10 @@
-[
-  {
-    "Version": "103.0.1264.77",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dba89b53-9614-4a7c-b1f3-85e5dd724930/MicrosoftEdgeEnterpriseX64.msi",
-    "Release": "Enterprise",
-    "Platform": "Windows",
-    "Path": "/Users/aaron/Temp/Evergreen/MicrosoftEdge/Stable/Enterprise/103.0.1264.77/x64/MicrosoftEdgeEnterpriseX64.msi",
-    "Hash": "A322164810FB710928E3462FE4401511C8F14B0B2F09C7678F6A28E7A12F1084",
-    "Channel": "Stable",
-    "Architecture": "x64"
-  },
-  {
-    "Version": "104.0.1293.47",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ae74ef31-bf5b-4f40-85c4-3ffbaffa865f/MicrosoftEdgeEnterpriseX64.msi",
-    "Release": "Enterprise",
-    "Platform": "Windows",
-    "Path": "/Users/aaron/Temp/Evergreen/MicrosoftEdge/Stable/Enterprise/104.0.1293.47/x64/MicrosoftEdgeEnterpriseX64.msi",
-    "Hash": "93ABAA78D6F3BDD3D6B67B6452FE3C023F4FC240547B61F729A4DB5D511AFFF9",
-    "Channel": "Stable",
-    "Architecture": "x64"
-  },
-  {
-    "Version": "104.0.1293.54",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d5f98e6-819e-49ab-8dc3-e65d8f27815b/MicrosoftEdgeEnterpriseX64.msi",
-    "Release": "Enterprise",
-    "Platform": "Windows",
-    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/104.0.1293.54/x64/MicrosoftEdgeEnterpriseX64.msi",
-    "Hash": "DF10F35A2A8C38D0D368F9F093FCBB04D96C170DD370267F8C158CD8E0D147C0",
-    "Channel": "Stable",
-    "Architecture": "x64"
-  },
-  {
-    "Version": "104.0.1293.63",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1023dc2c-05dd-4cf9-8ca0-b4b7f032be10/MicrosoftEdgeEnterpriseX64.msi",
-    "Release": "Enterprise",
-    "Platform": "Windows",
-    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/104.0.1293.63/x64/MicrosoftEdgeEnterpriseX64.msi",
-    "Hash": "65EC853A6CFE77025AA0DCDFEC04544E08CA5F46478243097C2715E3CB66DE6D",
-    "Channel": "Stable",
-    "Architecture": "x64"
-  },
-  {
-    "Version": "104.0.1293.70",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2f56f555-a769-4a4a-bd1d-8b7affd26e0d/MicrosoftEdgeEnterpriseX64.msi",
-    "Release": "Enterprise",
-    "Platform": "Windows",
-    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/104.0.1293.70/x64/MicrosoftEdgeEnterpriseX64.msi",
-    "Hash": "AD3E91DDC32E3E650C3C06B459EA2C20BC8EE352F92C6A53C2A27129427B1DEA",
-    "Channel": "Stable",
-    "Architecture": "x64"
-  },
-  {
-    "Version": "105.0.1343.27",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cdb292a-ea8a-4aed-b2c5-73e2a74ad28f/MicrosoftEdgeEnterpriseX64.msi",
-    "Release": "Enterprise",
-    "Platform": "Windows",
-    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/105.0.1343.27/x64/MicrosoftEdgeEnterpriseX64.msi",
-    "Hash": "1972C2E7BC8BD2A7C815EABD6C77936CAFF09DD9F214B2100DE5C948504E54B8",
-    "Channel": "Stable",
-    "Architecture": "x64"
-  },
-  {
-    "Version": "105.0.1343.50",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/43dad407-9104-48f5-89ac-7a46dc52ab63/MicrosoftEdgeEnterpriseX64.msi",
-    "Release": "Enterprise",
-    "Platform": "Windows",
-    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/105.0.1343.50/x64/MicrosoftEdgeEnterpriseX64.msi",
-    "Hash": "ECB7C143F42DA64E91AF536C4A9BCCB6B4F7E063ED5350A81B804FF6C108A035",
-    "Channel": "Stable",
-    "Architecture": "x64"
-  }
-]
+{
+  "Version": "108.0.1462.46",
+  "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a5ae4c6-1967-4a5e-923a-d7d6dd438b2a/MicrosoftEdgeEnterpriseX64.msi",
+  "Release": "Enterprise",
+  "Platform": "Windows",
+  "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/108.0.1462.46/x64/MicrosoftEdgeEnterpriseX64.msi",
+  "Hash": "F4DAEE95993E71D517842DDEED60061710ACCC8D9E39232C6F4B51A0551E56FF",
+  "Channel": "Stable",
+  "Architecture": "x64"
+}

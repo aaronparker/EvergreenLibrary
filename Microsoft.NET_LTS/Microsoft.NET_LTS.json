@@ -1,0 +1,9 @@
+{
+  "Version": "6.0.11",
+  "URI": "https://download.visualstudio.microsoft.com/download/pr/0192a249-3ec8-4374-a827-e186dd58d55d/cec046575f3eb2247a10ba3d50f5cf6c/windowsdesktop-runtime-6.0.11-win-x64.exe",
+  "Type": "exe",
+  "Path": "/Users/aaron/Temp/EvergreenLibrary/Microsoft.NET_LTS/LTS/6.0.11/x64/windowsdesktop-runtime-6.0.11-win-x64.exe",
+  "Installer": "windowsdesktop",
+  "Channel": "LTS",
+  "Architecture": "x64"
+}
