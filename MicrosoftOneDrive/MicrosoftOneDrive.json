@@ -16,5 +16,41 @@
     "Ring": "Production",
     "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftOneDrive/Production/22.248.1127.0001/AMD64/OneDriveSetup.exe",
     "Architecture": "AMD64"
+  },
+  {
+    "Version": "23.002.0102.0004",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.002.0102.0004/amd64/OneDriveSetup.exe",
+    "Type": "exe",
+    "Sha256": "EwMVlp0oVybyDqNdwzSjlePTHoO6vsO9FuM/nUX+BOQ=",
+    "Ring": "Production",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftOneDrive/Production/23.002.0102.0004/AMD64/OneDriveSetup.exe",
+    "Architecture": "AMD64"
+  },
+  {
+    "Version": "23.007.0109.0004",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.007.0109.0004/amd64/OneDriveSetup.exe",
+    "Type": "exe",
+    "Sha256": "jeSPmHJyYwlAOnU/ozU3ACY2kiIhkI1TWRLNUWOfTY0=",
+    "Ring": "Production",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftOneDrive/Production/23.007.0109.0004/AMD64/OneDriveSetup.exe",
+    "Architecture": "AMD64"
+  },
+  {
+    "Version": "23.023.0129.0002",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.023.0129.0002/amd64/OneDriveSetup.exe",
+    "Type": "exe",
+    "Sha256": "WDxJGhGby6ZdjhCSsSR/eDNWDY4DSGIXcoTaH3eEVYs=",
+    "Ring": "Production",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftOneDrive/Production/23.023.0129.0002/AMD64/OneDriveSetup.exe",
+    "Architecture": "AMD64"
+  },
+  {
+    "Version": "23.028.0205.0002",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.028.0205.0002/amd64/OneDriveSetup.exe",
+    "Type": "exe",
+    "Sha256": "REFwT4z6CCKew/EQxoePX1ID1KTIfKKeCnqbrwkwnHI=",
+    "Ring": "Production",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftOneDrive/Production/23.028.0205.0002/AMD64/OneDriveSetup.exe",
+    "Architecture": "AMD64"
   }
 ]

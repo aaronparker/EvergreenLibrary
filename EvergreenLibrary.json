@@ -40,6 +40,11 @@
             "Name": "MicrosoftPowerShell",
             "EvergreenApp": "MicrosoftPowerShell",
             "Filter": "$_.Architecture -eq \"x64\" -and $_.Release -eq \"Stable\""
+        },
+        {
+            "Name": "YubicoAuthenticatorDesktop",
+            "EvergreenApp": "YubicoAuthenticator",
+            "Filter": "$_.Architecture -eq \"x64\"-and $_.Type -eq \"msi\" -and $_.Platform -eq \"Windows\""
         }
     ]
 }

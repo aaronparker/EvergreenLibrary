@@ -1,8 +1,26 @@
-{
-  "Version": "1.5.00.31168",
-  "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.31168/Teams_windows_x64.msi",
-  "Type": "msi",
-  "Ring": "General",
-  "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftTeams/General/1.5.00.31168/x64/Teams_windows_x64.msi",
-  "Architecture": "x64"
-}
+[
+  {
+    "Version": "1.5.00.31168",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.31168/Teams_windows_x64.msi",
+    "Type": "msi",
+    "Ring": "General",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftTeams/General/1.5.00.31168/x64/Teams_windows_x64.msi",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "1.5.00.36367",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.36367/Teams_windows_x64.msi",
+    "Type": "msi",
+    "Ring": "General",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftTeams/General/1.5.00.36367/x64/Teams_windows_x64.msi",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "1.6.00.1381",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.1381/Teams_windows_x64.msi",
+    "Type": "msi",
+    "Ring": "General",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftTeams/General/1.6.00.1381/x64/Teams_windows_x64.msi",
+    "Architecture": "x64"
+  }
+]

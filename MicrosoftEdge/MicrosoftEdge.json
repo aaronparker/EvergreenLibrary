@@ -1,10 +1,32 @@
-{
-  "Version": "108.0.1462.46",
-  "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a5ae4c6-1967-4a5e-923a-d7d6dd438b2a/MicrosoftEdgeEnterpriseX64.msi",
-  "Release": "Enterprise",
-  "Platform": "Windows",
-  "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/108.0.1462.46/x64/MicrosoftEdgeEnterpriseX64.msi",
-  "Hash": "F4DAEE95993E71D517842DDEED60061710ACCC8D9E39232C6F4B51A0551E56FF",
-  "Channel": "Stable",
-  "Architecture": "x64"
-}
+[
+  {
+    "Version": "108.0.1462.46",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a5ae4c6-1967-4a5e-923a-d7d6dd438b2a/MicrosoftEdgeEnterpriseX64.msi",
+    "Release": "Enterprise",
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/108.0.1462.46/x64/MicrosoftEdgeEnterpriseX64.msi",
+    "Hash": "F4DAEE95993E71D517842DDEED60061710ACCC8D9E39232C6F4B51A0551E56FF",
+    "Channel": "Stable",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "109.0.1518.61",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f5524660-74d7-4441-9aba-4c5884a171a5/MicrosoftEdgeEnterpriseX64.msi",
+    "Release": "Enterprise",
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/109.0.1518.61/x64/MicrosoftEdgeEnterpriseX64.msi",
+    "Hash": "4343BE214825A50C72FCC0C30655B2A040DF6F53A7410AAE063D90D7E52BF666",
+    "Channel": "Stable",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "110.0.1587.50",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1a9eddb0-812f-4e14-a746-33b2ced26b6a/MicrosoftEdgeEnterpriseX64.msi",
+    "Release": "Enterprise",
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/110.0.1587.50/x64/MicrosoftEdgeEnterpriseX64.msi",
+    "Hash": "7B83284F45FC936D73BE622FE86728EA7307142C58AFCBA4915DCB23D6FCAF05",
+    "Channel": "Stable",
+    "Architecture": "x64"
+  }
+]

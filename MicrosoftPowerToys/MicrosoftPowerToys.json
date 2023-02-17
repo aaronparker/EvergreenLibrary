@@ -1,10 +1,32 @@
-{
-  "Version": "0.65.0",
-  "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.65.0/PowerToysSetup-0.65.0-x64.exe",
-  "Type": "exe",
-  "Size": 103153392,
-  "Platform": "Windows",
-  "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftPowerToys/0.65.0/x64/PowerToysSetup-0.65.0-x64.exe",
-  "Date": "5/12/2022",
-  "Architecture": "x64"
-}
+[
+  {
+    "Version": "0.65.0",
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.65.0/PowerToysSetup-0.65.0-x64.exe",
+    "Type": "exe",
+    "Size": 103153392,
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftPowerToys/0.65.0/x64/PowerToysSetup-0.65.0-x64.exe",
+    "Date": "5/12/2022",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "0.66.0",
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.66.0/PowerToysSetup-0.66.0-x64.exe",
+    "Type": "exe",
+    "Size": 175079456,
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftPowerToys/0.66.0/x64/PowerToysSetup-0.66.0-x64.exe",
+    "Date": "4/1/2023",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "0.67.1",
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.67.1/PowerToysSetup-0.67.1-x64.exe",
+    "Type": "exe",
+    "Size": 175800648,
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftPowerToys/0.67.1/x64/PowerToysSetup-0.67.1-x64.exe",
+    "Date": "7/2/2023",
+    "Architecture": "x64"
+  }
+]

@@ -1,9 +1,29 @@
-{
-  "Version": "6.0.11",
-  "URI": "https://download.visualstudio.microsoft.com/download/pr/0192a249-3ec8-4374-a827-e186dd58d55d/cec046575f3eb2247a10ba3d50f5cf6c/windowsdesktop-runtime-6.0.11-win-x64.exe",
-  "Type": "exe",
-  "Path": "/Users/aaron/Temp/EvergreenLibrary/Microsoft.NET_LTS/LTS/6.0.11/x64/windowsdesktop-runtime-6.0.11-win-x64.exe",
-  "Installer": "windowsdesktop",
-  "Channel": "LTS",
-  "Architecture": "x64"
-}
+[
+  {
+    "Version": "6.0.11",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/0192a249-3ec8-4374-a827-e186dd58d55d/cec046575f3eb2247a10ba3d50f5cf6c/windowsdesktop-runtime-6.0.11-win-x64.exe",
+    "Type": "exe",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/Microsoft.NET_LTS/LTS/6.0.11/x64/windowsdesktop-runtime-6.0.11-win-x64.exe",
+    "Installer": "windowsdesktop",
+    "Channel": "LTS",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "6.0.13",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/4c5e26cf-2512-4518-9480-aac8679b0d08/523f1967fd98b0cf4f9501855d1aa063/windowsdesktop-runtime-6.0.13-win-x64.exe",
+    "Type": "exe",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/Microsoft.NET_LTS/LTS/6.0.13/x64/windowsdesktop-runtime-6.0.13-win-x64.exe",
+    "Installer": "windowsdesktop",
+    "Channel": "LTS",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "6.0.14",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/035efed3-6386-4e1d-bcbc-384a20ebf47e/abfbea2303e0ce9cb15d430314e5858f/windowsdesktop-runtime-6.0.14-win-x64.exe",
+    "Type": "exe",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/Microsoft.NET_LTS/LTS/6.0.14/x64/windowsdesktop-runtime-6.0.14-win-x64.exe",
+    "Installer": "windowsdesktop",
+    "Channel": "LTS",
+    "Architecture": "x64"
+  }
+]

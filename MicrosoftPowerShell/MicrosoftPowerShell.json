@@ -1,11 +1,24 @@
-{
-  "Version": "7.3.0",
-  "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.0/PowerShell-7.3.0-win-x64.msi",
-  "Type": "msi",
-  "Size": 106225664,
-  "Release": "Stable",
-  "Platform": "Windows",
-  "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftPowerShell/Stable/7.3.0/x64/PowerShell-7.3.0-win-x64.msi",
-  "Date": "9/11/2022",
-  "Architecture": "x64"
-}
+[
+  {
+    "Version": "7.3.0",
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.0/PowerShell-7.3.0-win-x64.msi",
+    "Type": "msi",
+    "Size": 106225664,
+    "Release": "Stable",
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftPowerShell/Stable/7.3.0/x64/PowerShell-7.3.0-win-x64.msi",
+    "Date": "9/11/2022",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "7.3.2",
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.2/PowerShell-7.3.2-win-x64.msi",
+    "Type": "msi",
+    "Size": 105549824,
+    "Release": "Stable",
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftPowerShell/Stable/7.3.2/x64/PowerShell-7.3.2-win-x64.msi",
+    "Date": "24/1/2023",
+    "Architecture": "x64"
+  }
+]

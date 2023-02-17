@@ -1,9 +1,29 @@
-{
-  "Version": "7.0.0",
-  "URI": "https://download.visualstudio.microsoft.com/download/pr/5b2fbe00-507e-450e-8b52-43ab052aadf2/79d54c3a19ce3fce314f2367cf4e3b21/windowsdesktop-runtime-7.0.0-win-x64.exe",
-  "Type": "exe",
-  "Path": "/Users/aaron/Temp/EvergreenLibrary/Microsoft.NET_Current/Current/7.0.0/x64/windowsdesktop-runtime-7.0.0-win-x64.exe",
-  "Installer": "windowsdesktop",
-  "Channel": "Current",
-  "Architecture": "x64"
-}
+[
+  {
+    "Version": "7.0.0",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/5b2fbe00-507e-450e-8b52-43ab052aadf2/79d54c3a19ce3fce314f2367cf4e3b21/windowsdesktop-runtime-7.0.0-win-x64.exe",
+    "Type": "exe",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/Microsoft.NET_Current/Current/7.0.0/x64/windowsdesktop-runtime-7.0.0-win-x64.exe",
+    "Installer": "windowsdesktop",
+    "Channel": "Current",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "7.0.2",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/8d4ae76c-10d6-450c-b1c2-76b7b2156dc3/9207c5d5d0b608d8ec0622efa4419ed6/windowsdesktop-runtime-7.0.2-win-x64.exe",
+    "Type": "exe",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/Microsoft.NET_Current/Current/7.0.2/x64/windowsdesktop-runtime-7.0.2-win-x64.exe",
+    "Installer": "windowsdesktop",
+    "Channel": "Current",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "7.0.3",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/3ebf014d-fcb9-4200-b3fe-76ba2000b027/840f2f95833ce400a9949e35f1581d28/windowsdesktop-runtime-7.0.3-win-x64.exe",
+    "Type": "exe",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/Microsoft.NET_Current/Current/7.0.3/x64/windowsdesktop-runtime-7.0.3-win-x64.exe",
+    "Installer": "windowsdesktop",
+    "Channel": "Current",
+    "Architecture": "x64"
+  }
+]

@@ -1,9 +1,29 @@
-{
-  "Version": "1.74.0",
-  "URI": "https://az764295.vo.msecnd.net/stable/5235c6bb189b60b01b1f49062f4ffa42384f8c91/VSCodeSetup-x64-1.74.0.exe",
-  "Sha256": "fbe977aa69a1c1438d2c2b9d5525415e1fd8d97b6dbb149301a7c3bf3a84b14a",
-  "Platform": "win32-x64",
-  "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftVisualStudioCode/Stable/1.74.0/x64/VSCodeSetup-x64-1.74.0.exe",
-  "Channel": "Stable",
-  "Architecture": "x64"
-}
+[
+  {
+    "Version": "1.74.0",
+    "URI": "https://az764295.vo.msecnd.net/stable/5235c6bb189b60b01b1f49062f4ffa42384f8c91/VSCodeSetup-x64-1.74.0.exe",
+    "Sha256": "fbe977aa69a1c1438d2c2b9d5525415e1fd8d97b6dbb149301a7c3bf3a84b14a",
+    "Platform": "win32-x64",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftVisualStudioCode/Stable/1.74.0/x64/VSCodeSetup-x64-1.74.0.exe",
+    "Channel": "Stable",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "1.74.3",
+    "URI": "https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeSetup-x64-1.74.3.exe",
+    "Sha256": "cea32aa015116f8346e054c59497908f6da6059361c1b33d5b68059031f2dc97",
+    "Platform": "win32-x64",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftVisualStudioCode/Stable/1.74.3/x64/VSCodeSetup-x64-1.74.3.exe",
+    "Channel": "Stable",
+    "Architecture": "x64"
+  },
+  {
+    "Version": "1.75.1",
+    "URI": "https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeSetup-x64-1.75.1.exe",
+    "Sha256": "70ef532f72507dfbd0e813846822580bb2e0c37e46b905da9185e4ee85a8fa28",
+    "Platform": "win32-x64",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftVisualStudioCode/Stable/1.75.1/x64/VSCodeSetup-x64-1.75.1.exe",
+    "Channel": "Stable",
+    "Architecture": "x64"
+  }
+]
