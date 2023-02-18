@@ -2,6 +2,11 @@
     "Name": "EvergreenLibrary",
     "Applications": [
         {
+            "Name": "MicrosoftFSLogixApps",
+            "EvergreenApp": "MicrosoftFSLogixApps",
+            "Filter": "$_.Channel -eq \"Productions\""
+        },
+        {
             "Name": "Microsoft.NET_LTS",
             "EvergreenApp": "Microsoft.NET",
             "Filter": "$_.Architecture -eq \"x64\" -and $_.Installer -eq \"windowsdesktop\" -and $_.Channel -eq \"LTS\""
@@ -37,14 +42,14 @@
             "Filter": "$_.Architecture -eq \"x64\""
         },
         {
+            "Name": "YubicoAuthenticatorDesktop",
+            "EvergreenApp": "YubicoAuthenticator",
+            "Filter": "$_.Architecture -eq \"x64\" -and $_.Type -eq \"msi\" -and $_.Platform -eq \"Windows\""
+        },
+        {
             "Name": "MicrosoftPowerShell",
             "EvergreenApp": "MicrosoftPowerShell",
             "Filter": "$_.Architecture -eq \"x64\" -and $_.Release -eq \"Stable\""
-        },
-        {
-            "Name": "YubicoAuthenticatorDesktop",
-            "EvergreenApp": "YubicoAuthenticator",
-            "Filter": "$_.Architecture -eq \"x64\"-and $_.Type -eq \"msi\" -and $_.Platform -eq \"Windows\""
         }
     ]
 }
