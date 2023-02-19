@@ -4,7 +4,7 @@
         {
             "Name": "MicrosoftFSLogixApps",
             "EvergreenApp": "MicrosoftFSLogixApps",
-            "Filter": "$_.Channel -eq \"Productions\""
+            "Filter": "$_.Channel -eq \"Production\""
         },
         {
             "Name": "Microsoft.NET_LTS",
