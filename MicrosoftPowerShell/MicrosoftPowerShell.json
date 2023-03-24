@@ -31,5 +31,16 @@
     "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftPowerShell/Stable/7.3.2/x64/PowerShell-7.3.2-win-x64.msi",
     "Date": "1/24/2023",
     "Architecture": "x64"
+  },
+  {
+    "Version": "7.3.3",
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.3/PowerShell-7.3.3-win-x64.msi",
+    "Type": "msi",
+    "Size": 106127360,
+    "Release": "Stable",
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftPowerShell/Stable/7.3.3/x64/PowerShell-7.3.3-win-x64.msi",
+    "Date": "24/2/2023",
+    "Architecture": "x64"
   }
 ]

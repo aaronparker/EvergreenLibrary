@@ -38,5 +38,15 @@
     "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftPowerToys/0.67.1/x64/PowerToysSetup-0.67.1-x64.exe",
     "Date": "2/7/2023",
     "Architecture": "x64"
+  },
+  {
+    "Version": "0.68.1",
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.68.1/PowerToysSetup-0.68.1-x64.exe",
+    "Type": "exe",
+    "Size": 177431488,
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftPowerToys/0.68.1/x64/PowerToysSetup-0.68.1-x64.exe",
+    "Date": "6/3/2023",
+    "Architecture": "x64"
   }
 ]

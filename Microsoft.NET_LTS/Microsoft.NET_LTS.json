@@ -25,5 +25,14 @@
     "Installer": "windowsdesktop",
     "Channel": "LTS",
     "Architecture": "x64"
+  },
+  {
+    "Version": "6.0.15",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/513d13b7-b456-45af-828b-b7b7981ff462/edf44a743b78f8b54a2cec97ce888346/windowsdesktop-runtime-6.0.15-win-x64.exe",
+    "Type": "exe",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/Microsoft.NET_LTS/LTS/6.0.15/x64/windowsdesktop-runtime-6.0.15-win-x64.exe",
+    "Installer": "windowsdesktop",
+    "Channel": "LTS",
+    "Architecture": "x64"
   }
 ]

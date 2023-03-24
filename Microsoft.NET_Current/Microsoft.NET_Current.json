@@ -25,5 +25,14 @@
     "Installer": "windowsdesktop",
     "Channel": "Current",
     "Architecture": "x64"
+  },
+  {
+    "Version": "7.0.4",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/b6a55627-12de-482a-aea8-17d635f4b775/d8798c0c796a945c657d04438cf9b84d/windowsdesktop-runtime-7.0.4-win-x64.exe",
+    "Type": "exe",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/Microsoft.NET_Current/Current/7.0.4/x64/windowsdesktop-runtime-7.0.4-win-x64.exe",
+    "Installer": "windowsdesktop",
+    "Channel": "Current",
+    "Architecture": "x64"
   }
 ]

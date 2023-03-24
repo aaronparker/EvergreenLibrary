@@ -22,5 +22,13 @@
     "Ring": "General",
     "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftTeams/General/1.6.00.1381/x64/Teams_windows_x64.msi",
     "Architecture": "x64"
+  },
+  {
+    "Version": "1.6.00.4472",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.4472/Teams_windows_x64.msi",
+    "Type": "msi",
+    "Ring": "General",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftTeams/General/1.6.00.4472/x64/Teams_windows_x64.msi",
+    "Architecture": "x64"
   }
 ]

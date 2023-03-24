@@ -28,5 +28,15 @@
     "Hash": "7B83284F45FC936D73BE622FE86728EA7307142C58AFCBA4915DCB23D6FCAF05",
     "Channel": "Stable",
     "Architecture": "x64"
+  },
+  {
+    "Version": "111.0.1661.51",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/04705fe5-a0d7-4c0e-9e35-567443bc5d7f/MicrosoftEdgeEnterpriseX64.msi",
+    "Release": "Enterprise",
+    "Platform": "Windows",
+    "Path": "/Users/aaron/Temp/EvergreenLibrary/MicrosoftEdge/Stable/Enterprise/111.0.1661.51/x64/MicrosoftEdgeEnterpriseX64.msi",
+    "Hash": "C3777F4FDBFA6207B2B4885C0E5985C8602805D93F526FE1B0DAEDE4ABF8CD25",
+    "Channel": "Stable",
+    "Architecture": "x64"
   }
 ]
